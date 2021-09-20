@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tj.areco.e@gmail.com
+	name = Tiffany Areco
